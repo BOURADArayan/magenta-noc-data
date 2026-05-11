@@ -1,0 +1,19 @@
+{
+  "count": 1,
+  "tickets": [
+    {
+      "ticket_id": "TKT-20250509-4501",
+      "site_id": "DT-4501",
+      "sector": "S3",
+      "severity": "P2",
+      "title": "Sector S3 RACH failure + throughput degradation",
+      "status": "IN_PROGRESS",
+      "created_at": "2025-05-09 09:22 UTC",
+      "shift_deadline": "14:00 UTC",
+      "assigned_to": "[EMP-REDACTED]",
+      "hypothesis": "Firmware regression on BBU",
+      "last_action": "Soft reset initiated per runbook S.4.2",
+      "escalation_level": 2
+    }
+  ]
+}

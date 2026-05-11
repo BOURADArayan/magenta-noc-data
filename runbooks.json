@@ -1,0 +1,14 @@
+{
+  "count": 1,
+  "runbooks": [
+    {
+      "runbook_id": "RB-DT4501-v2.1",
+      "site_id": "DT-4501",
+      "title": "Site DT-4501 Sector S3 Recovery Runbook",
+      "version": "2.1",
+      "sections": ["S.1 Scope","S.4.1 FW Check","S.4.2 Sector Reset","S.7 Shift Handoff"],
+      "key_procedure": "S.4.2",
+      "file": "runbook_DT4501.md"
+    }
+  ]
+}

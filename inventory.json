@@ -1,0 +1,29 @@
+{
+  "count": 2,
+  "inventory": [
+    {
+      "asset_id": "BBU-DT4501-S3",
+      "site_id": "DT-4501",
+      "sector": "S3",
+      "type": "BBU",
+      "model": "BBU-9x Series",
+      "firmware_current": "BBU-FW-9x-v4.8.1",
+      "firmware_golden": "BBU-FW-9x-v4.7.2",
+      "firmware_match": false,
+      "last_updated": "2025-05-07 22:00 UTC",
+      "status": "DEGRADED"
+    },
+    {
+      "asset_id": "CPE-DT4501-001",
+      "site_id": "DT-4501",
+      "sector": "S3",
+      "type": "CPE",
+      "model": "D-Link DSL-2750B",
+      "firmware_current": "DSL-2750B_v2.1.3",
+      "firmware_golden": "DSL-2750B_v2.0.9",
+      "firmware_match": false,
+      "last_updated": "2025-05-08 10:00 UTC",
+      "status": "ACTIVE"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "count": 2,
+  "alarms": [
+    {
+      "alarm_id": "ALM-20250509-001",
+      "site_id": "DT-4501",
+      "sector": "S3",
+      "type": "RACH_FAILURE",
+      "severity": "P2",
+      "threshold": "15%",
+      "current_value": "68%",
+      "started_at": "08:51 UTC",
+      "status": "ACTIVE",
+      "ticket_ref": "TKT-20250509-4501"
+    },
+    {
+      "alarm_id": "ALM-20250509-002",
+      "site_id": "DT-4501",
+      "sector": "S3",
+      "type": "THROUGHPUT_DEGRADED",
+      "severity": "P2",
+      "threshold": "150 Mbps",
+      "current_value": "2.1 Mbps",
+      "started_at": "09:14 UTC",
+      "status": "ACTIVE",
+      "ticket_ref": "TKT-20250509-4501"
+    }
+  ]
+}
