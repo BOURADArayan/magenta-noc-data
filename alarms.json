@@ -22,7 +22,7 @@
       "threshold": "150 Mbps",
       "current_value": "2.1 Mbps",
       "started_at": "09:14 UTC",
-      "status": "ACTIVE",
+      "status": "RESOLVED",
       "ticket_ref": "TKT-20250509-4501"
     }
   ]
